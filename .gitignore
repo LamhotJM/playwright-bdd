@@ -1,0 +1,34 @@
+# ------------------------
+# IntelliJ IDEA
+# ------------------------
+# User-specific settings
+.idea/
+*.iws
+# Module files
+*.iml
+# IntelliJ build output
+out/
+
+# ------------------------
+# Maven
+# ------------------------
+# Build output
+target/
+# Backup & temporary files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+# Maven Wrapper timing log
+.mvn/timing.log
+
+# ------------------------
+# Java
+# ------------------------
+# Compiled class files
+*.class
+# Log files
+*.log
