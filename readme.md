@@ -19,5 +19,5 @@ Designed to give you end-to-end (UI & API) coverage with minimal boilerplate.
 ## 🛠️ Setup & Installation
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-org/my-playwright-bdd.git
+   git clone https://github.com/LamhotJM/playwright-bdd.git
    cd my-playwright-bdd
